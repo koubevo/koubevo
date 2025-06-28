@@ -23,9 +23,10 @@ Here are some projects that showcase my skills and interests:
 *   **Gearly** -  Europe's First Baseball & Softball Marketplace | *Laravel, Vue.js, Inertia.js, TailwindCSS, MySQL* | Originally started as a bachelor’s thesis project, Gearly continues to evolve with real users and feedback from the sports community.
     *   [Gearly @ GitHub](https://github.com/koubevo/gearly)
 *   **Leepa** - Project I am currently working on at BOSCH. | *Nette (PHP), jQuery, Docker, MSSQL* | Inertn Lab Management System
-    *   [Podcast with Leepa Teamleaders @ YouTube]([e.g., `https://github.com/koubevo/weather-app`](https://youtu.be/adKPDbpHNEA?si=f1wUEz6vf6trfbkz)
+    *   [Podcast with Leepa Teamleaders @ YouTube](https://youtu.be/adKPDbpHNEA?si=f1wUEz6vf6trfbkz)
+    *   [About Digitizaion at Bosch](https://svetprumyslu.cz/bosch-ceska-republika-a-slovensko-digitalizace-a-inovace-jako-cesta-k-pokrocile-vyrobe/)
 *   **More**
-    *   [My GitHub] (https://github.com/koubevo)
+    *   [My GitHub](https://github.com/koubevo)
 
 ---
 
