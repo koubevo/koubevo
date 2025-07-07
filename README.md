@@ -1,5 +1,5 @@
 # Bc. Vojtěch Koubek
-### 🧑‍💻 Full-stack Developer | Problem Solver | Continuous Learner
+### 🧑‍💻 Software Developer
 
 Hello! I'm Vojtěch, a passionate Full-stack Developer with a strong focus on creating robust and scalable web applications. I thrive on solving complex problems, building intuitive user experiences, and continuously expanding my technical horizons.
 
