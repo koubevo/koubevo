@@ -1,92 +1,68 @@
-# Bc. Vojtěch Koubek
-### 🧑‍💻 Software Developer
+# Hi, I'm Vojtěch Koubek 👋
 
-Hello! I'm Vojtěch, a passionate Full-stack Developer with a strong focus on creating robust and scalable web applications. I thrive on solving complex problems, building intuitive user experiences, and continuously expanding my technical horizons.
+I am a Full-Stack Software Engineer specializing in the **PHP/Laravel & Vue.js** ecosystem. I build robust, user-centric web applications and thrive on solving real-world problems with clean, efficient code.
 
-**I recently completed my Bachelor's degree at the Prague University of Economics and Business in June 2025. Since October 2024, I've been gaining valuable professional experience as a part-time PHP Developer at BOSCH.**
-
----
-
-### 🚀 **What I Do & My Approach**
-
-*   **Full-stack Development:** Proficient in both front-end and back-end technologies, I enjoy bringing ideas to life from conception to deployment.
-*   **Problem Solving:** I love tackling technical challenges and finding efficient, elegant solutions.
-*   **Collaboration:** I enjoy working in agile environments and contributing to team success.
-*   **Continuous Learning:** The tech landscape evolves rapidly, and I'm committed to staying updated with new technologies and methodologies.
+My background includes professional experience in a large-scale corporate environment at **Bosch**, complemented by a portfolio of independent projects I've built from the ground up.
 
 ---
 
-### 💻 **My Projects**
+### 🛠️ My Tech Stack & Toolkit
 
-Here are some projects that showcase my skills and interests:
+This is the set of technologies I work with regularly.
 
-*   **Gearly** -  Europe's First Baseball & Softball Marketplace | *Laravel, Vue.js, Inertia.js, TailwindCSS, MySQL* | Originally started as a bachelor’s thesis project, Gearly continues to evolve with real users and feedback from the sports community.
-    *   [Gearly @ GitHub](https://github.com/koubevo/gearly)
-    *   [gearly.eu](https://gearly.eu)
-*   **Leepa** - Project I am currently working on at BOSCH. | *Nette (PHP), jQuery, Docker, MSSQL* | Inertn Lab Management System
-    *   [Podcast with Leepa Teamleaders @ YouTube](https://youtu.be/adKPDbpHNEA?si=f1wUEz6vf6trfbkz)
-    *   [About Digitizaion at Bosch](https://svetprumyslu.cz/bosch-ceska-republika-a-slovensko-digitalizace-a-inovace-jako-cesta-k-pokrocile-vyrobe/)
-*   **More**
-    *   [My GitHub](https://github.com/koubevo)
+#### **Programming Languages**
+*   PHP, JavaScript (ES6+), SQL, HTML5, CSS3
 
----
+#### **Frameworks & Libraries**
+*   **PHP:** Laravel, Nette
+*   **JavaScript:** Vue.js, Inertia.js, jQuery
+*   **CSS:** Tailwind CSS, Bootstrap
 
-### ✅ **Actively Used Technologies**
+#### **Databases & Caching**
+*   MySQL, MSSQL, Redis
 
-#### **Languages & Data:**
+#### **Tools & Platforms**
+*   **DevOps:** Git, GitHub, GitLab, Docker
+*   **CI/CD:** GitLab CI, PHPStan, CodeSniffer
+*   **API:** Postman, Bruno, REST API
+*   **Build Tools:** Vite, Webpack
+*   **Package Managers:** Composer, npm
+*   **Project Management:** YouTrack, GitHub Projects, Confluence
+*   **IDE:** VS Code (w/ GitHub Copilot), PHP Storm
 
-*   PHP, JavaScript
-*   SQL (MySQL, MSSQL)
-*   HTML, CSS
+#### **Methodologies**
+*   Agile, Scrum, Kanban
 
-#### **Frameworks & Libraries:**
-
-*   Laravel, Nette
-*   Vue.js, Inertia.js, jQuery
-*   Tailwind CSS, Bootstrap
-*   Vite, Webpack
-
-#### **DevOps & Tools:**
-
-*   Docker
-*   Git, GitHub, GitLab
-*   Composer, NPM
-*   GitLab CI/CD (pipelines)
-*   cron jobs, REST APIs
-*   VPS (Hetzner)
-*   Bash (basic), SSH
-*   nginx
-
-#### **Productivity & IDE:**
-
-*   VS Code, PhpStorm
-*   YouTrack, GitHub Projects
-*   Scrum, Kanban
+#### **Familiar with**
+*   Java
 
 ---
 
-### ✅ **Experienced / Encountered Technologies**
+### 🚀 My Work & Projects
 
-*   Python, Java
-*   PWA principles
-*   SEO basics
-*   Figma
-*   Redis
-*   PHPStan
-*   WebSockets
-*   Livewire
-*   Alpine.js
-*   Postman, Bruno
+#### **Professional Experience**
+*   **Software Developer @ Bosch (Part-Time):** I contribute to the development and maintenance of a large-scale, robust Laboratory Information Management System (LIMS). My work primarily involves back-end development using the Nette framework (PHP) and MSSQL. *(The source code is proprietary and cannot be shared publicly.)*
 
----
+#### **Featured Personal Project**
+*   **[Gearly.eu](https://gearly.eu/) - Europe's First Baseball & Softball Marketplace**
+    *   A full-stack Single-Page Application (SPA) I architected and built from scratch as my bachelor's thesis. It solves a real-world market gap for the European sports community.
+    *   **Stack:** Laravel, Vue.js, Inertia.js, Tailwind CSS, MySQL, Laravel Reverb (WebSockets).
+    *   **[View on GitHub](https://github.com/koubevo/gearly)**
 
-### 🔗 **Connect with Me**
-
-*   **LinkedIn:** [linkedin.com/in/vojtěch-koubek-559981243](https://www.linkedin.com/in/vojtěch-koubek-559981243)
-*   **Email:** vojtech.koubek@seznam.cz / koubevo@gmail.com
+#### **Selected Other Projects**
+I also enjoy building smaller tools to explore new concepts:
+*   **[Digital Scoreboard](https://github.com/koubevo/Scoreboard-for-baseball-softball):** A real-time scoreboard built with vanilla JavaScript to handle client-side state management.
+*   **[YT-Recipes](https://github.com/koubevo/yt-recipes):** A tool for filtering, searching and adding great recipes from Youtube. Built with JS, WebStorage API.
+*   **[Capilendar](https://github.com/koubevo/capilendar):** A lighthearted project using a serverless approach with Google Apps Script to deliver a daily dose of capybara joy.
+*   **[Tasks App](https://github.com/koubevo/tasks-app):** A foundational CRUD application built with Java in academic team.
 
 ---
 
-### 🌱 **Looking Ahead**
+### 📫 Connect with Me
 
-I'm always eager to learn new technologies and contribute to challenging projects. Feel free to explore my repositories to see some of my work!
+<a href="https://www.linkedin.com/in/vojtech-koubek-559981243" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+<a href="mailto:koubevo@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
