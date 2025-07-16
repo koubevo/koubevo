@@ -63,6 +63,9 @@ I also enjoy building smaller tools to explore new concepts:
 <a href="https://www.linkedin.com/in/vojtech-koubek-559981243" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
+<a href="mailto:vojtech.koubek@seznam.cz">
+    <img src="https://img.shields.io/badge/Email-E11837?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email">
+</a>
 <a href="mailto:koubevo@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
